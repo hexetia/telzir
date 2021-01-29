@@ -1,3 +1,12 @@
+![img](https://github.com/saculbr/telzir/blob/master/public/screenshot_desktop.png)
+![img](https://github.com/saculbr/telzir/blob/master/public/screenshot_mobile.png)
+
+Landing page de uma operadora móvel fictícia responsivo, mobile-fisrt, construído durante uma aplicação em uma entrevista com React e Material UI
+
+<br />
+<br />
+<br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -20,6 +29,3 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-![img](https://github.com/saculbr/telzir/blob/master/public/screenshot_desktop.png)
-![img](https://github.com/saculbr/telzir/blob/master/public/screenshot_mobile.png)
